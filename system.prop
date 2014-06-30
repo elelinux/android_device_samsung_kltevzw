@@ -1,0 +1,7 @@
+#
+# System props for telephony
+telephony.lteOnCdmaDevice=1
+ro.telephony.default_network=10
+
+# cannot take spaces
+rild.libargs=-d /dev/smd0
